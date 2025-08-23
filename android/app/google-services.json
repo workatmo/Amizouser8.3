@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "428028100004",
+    "project_id": "amizo-a6f13",
+    "storage_bucket": "amizo-a6f13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428028100004:android:ae6e0e5100340bda089531",
+        "android_client_info": {
+          "package_name": "com.amizo.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428028100004-2jgs7phh6fc37n2f7bgv3br4291qr0ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ybBkMIbLjZGSlONzVyMkUi2j3qcC-2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428028100004-2jgs7phh6fc37n2f7bgv3br4291qr0ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428028100004:android:cb76c234367e0593089531",
+        "android_client_info": {
+          "package_name": "com.amizo.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428028100004-2jgs7phh6fc37n2f7bgv3br4291qr0ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ybBkMIbLjZGSlONzVyMkUi2j3qcC-2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428028100004-2jgs7phh6fc37n2f7bgv3br4291qr0ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428028100004:android:560c7f60e3b854fb089531",
+        "android_client_info": {
+          "package_name": "com.amizo.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428028100004-adjuhaf1tu4rfpprp38880hegrnqqi25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amizo.user",
+            "certificate_hash": "75f7050fb575ccc1343e5ff49e6b1325c3cb1cba"
+          }
+        },
+        {
+          "client_id": "428028100004-bn8v19feoeo487j6v6nfaqcg01sfqmnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amizo.user",
+            "certificate_hash": "b1a8f97faa1f1d74b406c93889dd900fb4d08f66"
+          }
+        },
+        {
+          "client_id": "428028100004-2jgs7phh6fc37n2f7bgv3br4291qr0ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ybBkMIbLjZGSlONzVyMkUi2j3qcC-2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428028100004-2jgs7phh6fc37n2f7bgv3br4291qr0ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
