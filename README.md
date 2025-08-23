@@ -1,4 +1,4 @@
-# Stackfood Multivendor App
+# AMizo User 8.3
 
 A new Flutter application.
 
